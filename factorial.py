@@ -4,5 +4,4 @@ def fact(n):
 		num = num * n
 		n = n -1
 	return num
-
 print fact(5)
